@@ -1,0 +1,16 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "This is for our all ddevelope, who will use it on mobile and react.",
+  "main": "index.js",
+  "scripts": { 
+
+    "batch29"   : "json-server --watch db.json --port 1010"
+
+  },
+  "author": "shawon",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
